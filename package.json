@@ -1,0 +1,19 @@
+{
+  "name": "myfirstnode",
+  "version": "1.0.0",
+  "description": "my first node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewmac1/New.git"
+  },
+  "author": "Matthew McArthur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewmac1/New/issues"
+  },
+  "homepage": "https://github.com/matthewmac1/New#readme"
+}
